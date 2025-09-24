@@ -1,0 +1,14 @@
+/* Estilo del botón */
+#miBoton {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+#miBoton:hover {
+  background-color: #45a049;
+}
